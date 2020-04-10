@@ -6,7 +6,12 @@ from urllib.request import urlopen
 name_dict = defaultdict(list)
 with open('namesets.txt', encoding='utf8') as f:
     for line in f.readlines():
-        info = line[:-1].split(' ')
+        info = line[:-1]
+        while info and info[-1] == ' ':
+            info = info[:-1]
+        if not info:
+            continue
+        info = info.split(' ')
         for i in range(len(info)):
             name_dict[info[0]].append(info[i])
 champ_name_list = list(name_dict.keys())
