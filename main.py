@@ -3,6 +3,7 @@ from fuzzywuzzy import fuzz
 from collections import defaultdict
 from urllib.request import urlopen
 import os
+import pyperclip
 
 name_dict = defaultdict(list)
 if os.path.exists('namesets.txt'):
@@ -46,6 +47,7 @@ def select(input_champ):
 
 
 while True:
+    total_res = ''
     champ_selected = []
     input_champs = input('Input the champ names: ')
     while input_champs and input_champs[-1] == ' ':
@@ -83,3 +85,5 @@ while True:
                 res += 'Cost:' + str(info[1])
             res += '\n'
             print(res)
+            total_res += res
+    pyperclip.copy(total_res)
