@@ -2,19 +2,27 @@ import json
 from fuzzywuzzy import fuzz
 from collections import defaultdict
 from urllib.request import urlopen
+import os
 
 name_dict = defaultdict(list)
-with open('namesets.txt', encoding='utf8') as f:
-    for line in f.readlines():
-        info = line[:-1]
-        while info and info[-1] == ' ':
-            info = info[:-1]
-        if not info:
-            continue
-        info = info.split(' ')
-        for i in range(len(info)):
-            name_dict[info[0]].append(info[i])
+if os.path.exists('namesets.txt'):
+    f = open('namesets.txt', encoding='utf8')
+else:
+    datasets_url = 'https://raw.githubusercontent.com/bokveizen/lol/master/namesets.txt'
+    f = urlopen(datasets_url)
+for line in f.readlines():
+    if not isinstance(line, str):
+        line = line.decode('utf8')
+    info = line
+    while info and info[-1] == ' ' or info[-1] == '\n':
+        info = info[:-1]
+    if not info:
+        continue
+    info = info.split(' ')
+    for i in range(len(info)):
+        name_dict[info[0]].append(info[i])
 champ_name_list = list(name_dict.keys())
+f.close()
 
 version_url = 'https://ddragon.leagueoflegends.com/api/versions.json'
 with urlopen(version_url) as f:
