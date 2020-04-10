@@ -31,7 +31,7 @@ Fiora 피오라 无双剑姬 菲奥娜 剑姬
 Fizz 피즈 潮汐海灵 菲兹 小鱼人 鱼人
 Galio 갈리오 正义巨像 加里奥 갈료
 Gangplank 갱플랭크 海洋之灾 普朗克 갱플 船长
-Garen 가렌 德玛西亚之力 盖伦
+Garen 가렌 德玛西亚之力 盖伦 德玛
 Gnar 나르 迷失之牙 纳尔
 Gragas 그라가스 酒桶 古拉加斯 그가 글가
 Graves 그레이브즈 法外狂徒 格雷福斯 그브 男枪
@@ -68,9 +68,9 @@ Lulu 룰루 仙灵女巫 璐璐
 Lux 럭스 光辉女郎 拉克丝
 Malphite 말파이트 熔岩巨兽 墨菲特 말파 石头人
 Malzahar 말자하 虚空先知 玛尔扎哈 말자 蚂蚱
-Maokai 마오카이 扭曲树精 茂凯 大叔 树精 树人
+Maokai 마오카이 扭曲树精 茂凯 大树 树精 树人
 MasterYi 마스터이 无极剑圣 易 마이 剑圣
-MissFortune 미스포츈 赏金猎人 厄运小姐 미포 女枪
+MissFortune 미스포츈 赏金猎人 厄运小姐 미포 女枪 MF
 MonkeyKing 오공 齐天大圣 孙悟空 猴子
 Mordekaiser 모데카이저 铁铠冥魂 莫德凯撒 모데 铁男
 Morgana 모르가나 堕落天使 莫甘娜 몰가
@@ -113,7 +113,7 @@ Swain 스웨인 诺克萨斯统领 斯维因 乌鸦
 Sylas 사일러스 解脱者 塞拉斯 사일 蒜男
 Syndra 신드라 暗黑元首 辛德拉 球女
 TahmKench 탐켄치 河流之王 塔姆 켄치 蛤蟆
-Taliyah 탈리야 岩雀 塔莉垭
+Taliyah 탈리야 岩雀 塔莉垭 麻雀
 Talon 탈론 刀锋之影 泰隆 男刀
 Taric 타릭 瓦洛兰之盾 塔里克 宝石
 Teemo 티모 迅捷斥候 提莫 蘑菇
