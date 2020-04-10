@@ -1,6 +1,7 @@
 import json
 from fuzzywuzzy import fuzz
 from collections import defaultdict
+from urllib.request import urlopen
 
 name_dict = defaultdict(list)
 with open('namesets.txt', encoding='utf8') as f:
@@ -8,9 +9,12 @@ with open('namesets.txt', encoding='utf8') as f:
         info = line[:-1].split(' ')
         for i in range(len(info)):
             name_dict[info[0]].append(info[i])
-
-data_path = 'champion_en'
 champ_name_list = list(name_dict.keys())
+
+version_url = 'https://ddragon.leagueoflegends.com/api/versions.json'
+with urlopen(version_url) as f:
+    data = json.load(f)
+    latest_version = data[0]
 
 
 def select(input_champ):
@@ -19,7 +23,7 @@ def select(input_champ):
             if name.upper() == input_champ.upper():
                 return champ_name
     fuzz_ratio_max = 0
-    tmp = input_champ
+    tmp = ''
     for champ_name in champ_name_list:
         ratio = max(fuzz.token_sort_ratio(input_champ.upper(), name.upper()) for name in name_dict[champ_name])
         if ratio > fuzz_ratio_max:
@@ -27,14 +31,22 @@ def select(input_champ):
             fuzz_ratio_max = ratio
     return tmp
 
+
 while True:
     champ_selected = []
-    input_champs = input('Input the champ name: ').split(' ')
-
+    input_champs = input('Input the champ names: ')
+    while input_champs and input_champs[-1] == ' ':
+        input_champs = input_champs[:-1]
+    if not input_champs:
+        continue
+    input_champs = input_champs.split(' ')
     for input_champ in input_champs:
         champ_selected.append(select(input_champ))
     for champ_name in champ_selected:
-        with open('{}/{}.json'.format(data_path, champ_name), encoding='utf8') as f:
+        if not champ_name:
+            continue
+        url = 'http://ddragon.leagueoflegends.com/cdn/{}/data/en_US/champion/{}.json'.format(latest_version, champ_name)
+        with urlopen(url) as f:
             data = json.load(f)
             data = data['data']
             data = data[champ_name]
