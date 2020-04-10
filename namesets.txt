@@ -4,85 +4,85 @@ Akali 아칼리 离群之刺 阿卡丽
 Alistar 알리스타 牛头酋长 阿利斯塔 牛头 알리
 Amumu 아무무 殇之木乃伊 阿木木
 Anivia 애니비아 冰晶凤凰 艾尼维亚 冰鸟
-Annie 애니 黑暗之女 安妮
-Aphelios 아펠리오스 残月之肃 厄斐琉斯 아펠
-Ashe 애쉬 寒冰射手 艾希
-AurelionSol 아우렐리온솔 铸星龙王 奥瑞利安·索尔 솔
-Azir 아지르 沙漠皇帝 阿兹尔
+Annie 애니 黑暗之女 安妮 火女
+Aphelios 아펠리오스 残月之肃 厄斐琉斯 아펠 月男 无E烦
+Ashe 애쉬 寒冰射手 艾希 寒冰
+AurelionSol 아우렐리온솔 铸星龙王 奥瑞利安·索尔 솔 龙王
+Azir 아지르 沙漠皇帝 阿兹尔 沙皇
 Bard 바드 星界游神 巴德
-Blitzcrank 블리츠크랭크 蒸汽机器人 布里茨 블리츠 블츠
-Brand 브랜드 复仇焰魂 布兰德
+Blitzcrank 블리츠크랭크 蒸汽机器人 布里茨 블리츠 블츠 机器人
+Brand 브랜드 复仇焰魂 布兰德 火男
 Braum 브라움 弗雷尔卓德之心 布隆 브람
-Caitlyn 케이틀린 皮城女警 凯特琳 케틀
+Caitlyn 케이틀린 皮城女警 凯特琳 케틀 女警
 Camille 카밀 青钢影 卡蜜尔
-Cassiopeia 카시오페아 魔蛇之拥 卡西奥佩娅 카시
-Chogath 초가스 虚空恐惧 科加斯
-Corki 코르키 英勇投弹手 库奇 콜키
-Darius 다리우스 诺克萨斯之手 德莱厄斯 다리
-Diana 다이애나 皎月女神 黛安娜
+Cassiopeia 카시오페아 魔蛇之拥 卡西奥佩娅 카시 蛇女
+Chogath 초가스 虚空恐惧 科加斯 大虫子
+Corki 코르키 英勇投弹手 库奇 콜키 飞机
+Darius 다리우스 诺克萨斯之手 德莱厄斯 다리 诺手
+Diana 다이애나 皎月女神 黛安娜 皎月
 Draven 드레이븐 荣耀行刑官 德莱文 드븐
-DrMundo 문도박사 祖安狂人 蒙多医生 문도
+DrMundo 문도박사 祖安狂人 蒙多医生 문도 蒙多
 Ekko 에코 时间刺客 艾克
-Elise 엘리스 蜘蛛女皇 伊莉丝
-Evelynn 이블린 痛苦之拥 伊芙琳
-Ezreal 이즈리얼 探险家 伊泽瑞尔 이즈
-Fiddlesticks 피들스틱 远古恐惧 费德提克 피들
-Fiora 피오라 无双剑姬 菲奥娜
-Fizz 피즈 潮汐海灵 菲兹
+Elise 엘리스 蜘蛛女皇 伊莉丝 蜘蛛
+Evelynn 이블린 痛苦之拥 伊芙琳 寡妇
+Ezreal 이즈리얼 探险家 伊泽瑞尔 이즈 ez
+Fiddlesticks 피들스틱 远古恐惧 费德提克 피들 稻草人
+Fiora 피오라 无双剑姬 菲奥娜 剑姬
+Fizz 피즈 潮汐海灵 菲兹 小鱼人 鱼人
 Galio 갈리오 正义巨像 加里奥 갈료
-Gangplank 갱플랭크 海洋之灾 普朗克 갱플
+Gangplank 갱플랭크 海洋之灾 普朗克 갱플 船长
 Garen 가렌 德玛西亚之力 盖伦
 Gnar 나르 迷失之牙 纳尔
 Gragas 그라가스 酒桶 古拉加斯 그가 글가
-Graves 그레이브즈 法外狂徒 格雷福斯 그브
-Hecarim 헤카림 战争之影 赫卡里姆
-Heimerdinger 하이머딩거 大发明家 黑默丁格 딩거
-Illaoi 일라오이 海兽祭司 俄洛伊
-Irelia 이렐리아 刀锋舞者 艾瑞莉娅 이렐
-Ivern 아이번 翠神 艾翁
-Janna 잔나 风暴之怒 迦娜
-JarvanIV 자르반4세 德玛西亚皇子 嘉文四世 잘반 자르반
+Graves 그레이브즈 法外狂徒 格雷福斯 그브 男枪
+Hecarim 헤카림 战争之影 赫卡里姆 人马
+Heimerdinger 하이머딩거 大发明家 黑默丁格 딩거 大头
+Illaoi 일라오이 海兽祭司 俄洛伊 触手
+Irelia 이렐리아 刀锋舞者 艾瑞莉娅 이렐 女刀 女刀锋
+Ivern 아이번 翠神 艾翁 小菊
+Janna 잔나 风暴之怒 迦娜 风女
+JarvanIV 자르반4세 德玛西亚皇子 嘉文四世 잘반 자르반 皇子
 Jax 잭스 武器大师 贾克斯
 Jayce 제이스 未来守护者 杰斯
 Jhin 진 戏命师 烬
 Jinx 징크스 暴走萝莉 金克丝 징스
 Kaisa 카이사 虚空之女 卡莎
-Kalista 칼리스타 复仇之矛 卡莉丝塔 칼리
+Kalista 칼리스타 复仇之矛 卡莉丝塔 칼리 滑板鞋
 Karma 카르마 天启者 卡尔玛 칼마
-Karthus 카서스 死亡颂唱者 卡尔萨斯
+Karthus 카서스 死亡颂唱者 卡尔萨斯 死歌
 Kassadin 카사딘 虚空行者 卡萨丁
-Katarina 카타리나 不祥之刃 卡特琳娜 카타
-Kayle 케일 正义天使 凯尔
+Katarina 카타리나 不祥之刃 卡特琳娜 카타 卡特
+Kayle 케일 正义天使 凯尔 天使
 Kayn 케인 影流之镰 凯隐
 Kennen 케넨 狂暴之心 凯南
-Khazix 카직스 虚空掠夺者 卡兹克
+Khazix 카직스 虚空掠夺者 卡兹克 螳螂
 Kindred 킨드레드 永猎双子 千珏 킨드
 Kled 클레드 暴怒骑士 克烈
-KogMaw 코그모 深渊巨口 克格莫
-Leblanc 르블랑 诡术妖姬 乐芙兰
+KogMaw 코그모 深渊巨口 克格莫 大嘴
+Leblanc 르블랑 诡术妖姬 乐芙兰 妖姬
 LeeSin 리신 盲僧 李青
-Leona 레오나 曙光女神 蕾欧娜
-Lissandra 리산드라 冰霜女巫 丽桑卓 리산
-Lucian 루시안 圣枪游侠 卢锡安 루샨
+Leona 레오나 曙光女神 蕾欧娜 日女
+Lissandra 리산드라 冰霜女巫 丽桑卓 리산 冰女
+Lucian 루시안 圣枪游侠 卢锡安 루샨 奥巴马
 Lulu 룰루 仙灵女巫 璐璐
 Lux 럭스 光辉女郎 拉克丝
-Malphite 말파이트 熔岩巨兽 墨菲特 말파
-Malzahar 말자하 虚空先知 玛尔扎哈 말자
-Maokai 마오카이 扭曲树精 茂凯
-MasterYi 마스터이 无极剑圣 易 마이
-MissFortune 미스포츈 赏金猎人 厄运小姐 미포
-MonkeyKing 오공 齐天大圣 孙悟空
-Mordekaiser 모데카이저 铁铠冥魂 莫德凯撒 모데
+Malphite 말파이트 熔岩巨兽 墨菲特 말파 石头人
+Malzahar 말자하 虚空先知 玛尔扎哈 말자 蚂蚱
+Maokai 마오카이 扭曲树精 茂凯 大叔 树精 树人
+MasterYi 마스터이 无极剑圣 易 마이 剑圣
+MissFortune 미스포츈 赏金猎人 厄运小姐 미포 女枪
+MonkeyKing 오공 齐天大圣 孙悟空 猴子
+Mordekaiser 모데카이저 铁铠冥魂 莫德凯撒 모데 铁男
 Morgana 모르가나 堕落天使 莫甘娜 몰가
 Nami 나미 唤潮鲛姬 娜美
-Nasus 나서스 沙漠死神 内瑟斯
-Nautilus 노틸러스 深海泰坦 诺提勒斯 노틸
+Nasus 나서스 沙漠死神 内瑟斯 狗头
+Nautilus 노틸러스 深海泰坦 诺提勒斯 노틸 泰坦
 Neeko 니코 万花通灵 妮蔻
-Nidalee 니달리 狂野女猎手 奈德丽
-Nocturne 녹턴 永恒梦魇 魔腾
-Nunu 누누와윌럼프 雪原双子 努努和威朗普 누누
+Nidalee 니달리 狂野女猎手 奈德丽 豹女
+Nocturne 녹턴 永恒梦魇 魔腾 NOC 梦魇
+Nunu 누누와윌럼프 雪原双子 努努和威朗普 누누 努努
 Olaf 올라프 狂战士 奥拉夫
-Orianna 오리아나 发条魔灵 奥莉安娜
+Orianna 오리아나 发条魔灵 奥莉安娜 发条
 Ornn 오른 山隐之焰 奥恩
 Pantheon 판테온 不屈之枪 潘森
 Poppy 뽀삐 圣锤之毅 波比
@@ -90,59 +90,59 @@ Pyke 파이크 血港鬼影 派克
 Qiyana 키아나 元素女皇 奇亚娜
 Quinn 퀸 德玛西亚之翼 奎因
 Rakan 라칸 幻翎 洛
-Rammus 람머스 披甲龙龟 拉莫斯 람스
-RekSai 렉사이 虚空遁地兽 雷克塞
-Renekton 레넥톤 荒漠屠夫 雷克顿 레넥
-Rengar 렝가 傲之追猎者 雷恩加尔
+Rammus 람머스 披甲龙龟 拉莫斯 람스 龙龟
+RekSai 렉사이 虚空遁地兽 雷克塞 挖掘机
+Renekton 레넥톤 荒漠屠夫 雷克顿 레넥 鳄鱼
+Rengar 렝가 傲之追猎者 雷恩加尔 狮子狗
 Riven 리븐 放逐之刃 锐雯
 Rumble 럼블 机械公敌 兰博
-Ryze 라이즈 符文法师 瑞兹
-Sejuani 세주아니 北地之怒 瑟庄妮 세주
+Ryze 라이즈 符文法师 瑞兹 光头
+Sejuani 세주아니 北地之怒 瑟庄妮 세주 猪女
 Senna 세나 涤魂圣枪 赛娜
 Sett 세트 腕豪 瑟提
-Shaco 샤코 恶魔小丑 萨科
+Shaco 샤코 恶魔小丑 萨科 小丑
 Shen 쉔 暮光之眼 慎
-Shyvana 쉬바나 龙血武姬 希瓦娜
-Singed 신지드 炼金术士 辛吉德 싱드
+Shyvana 쉬바나 龙血武姬 希瓦娜 龙女
+Singed 신지드 炼金术士 辛吉德 싱드 炼金
 Sion 사이온 亡灵战神 赛恩
-Sivir 시비르 战争女神 希维尔
-Skarner 스카너 水晶先锋 斯卡纳
-Sona 소나 琴瑟仙女 娑娜
-Soraka 소라카 众星之子 索拉卡
-Swain 스웨인 诺克萨斯统领 斯维因
-Sylas 사일러스 解脱者 塞拉斯 사일
-Syndra 신드라 暗黑元首 辛德拉
-TahmKench 탐켄치 河流之王 塔姆 켄치
+Sivir 시비르 战争女神 希维尔 轮子妈
+Skarner 스카너 水晶先锋 斯卡纳 蝎子
+Sona 소나 琴瑟仙女 娑娜 琴女
+Soraka 소라카 众星之子 索拉卡 奶妈 星妈
+Swain 스웨인 诺克萨斯统领 斯维因 乌鸦
+Sylas 사일러스 解脱者 塞拉斯 사일 蒜男
+Syndra 신드라 暗黑元首 辛德拉 球女
+TahmKench 탐켄치 河流之王 塔姆 켄치 蛤蟆
 Taliyah 탈리야 岩雀 塔莉垭
-Talon 탈론 刀锋之影 泰隆
-Taric 타릭 瓦洛兰之盾 塔里克
-Teemo 티모 迅捷斥候 提莫
+Talon 탈론 刀锋之影 泰隆 男刀
+Taric 타릭 瓦洛兰之盾 塔里克 宝石
+Teemo 티모 迅捷斥候 提莫 蘑菇
 Thresh 쓰레쉬 魂锁典狱长 锤石 쓸쉬 쓰시
-Tristana 트리스타나 麦林炮手 崔丝塔娜 트타
-Trundle 트런들 巨魔之王 特朗德尔
-Tryndamere 트린다미어 蛮族之王 泰达米尔 트린
-TwistedFate 트위스티드페이트 卡牌大师 崔斯特 트페
-Twitch 트위치 瘟疫之源 图奇 튀치 트치
+Tristana 트리스타나 麦林炮手 崔丝塔娜 트타 小炮 炮娘
+Trundle 트런들 巨魔之王 特朗德尔 巨魔
+Tryndamere 트린다미어 蛮族之王 泰达米尔 트린 蛮王
+TwistedFate 트위스티드페이트 卡牌大师 崔斯特 트페 卡牌
+Twitch 트위치 瘟疫之源 图奇 튀치 트치 老鼠
 Udyr 우디르 兽灵行者 乌迪尔
-Urgot 우르곳 无畏战车 厄加特
+Urgot 우르곳 无畏战车 厄加特 螃蟹
 Varus 바루스 惩戒之箭 韦鲁斯
 Vayne 베인 暗夜猎手 薇恩
-Veigar 베이가 邪恶小法师 维迦
-Velkoz 벨코즈 虚空之眼 维克兹
-Vi 바이 皮城执法官 蔚
-Viktor 빅토르 机械先驱 维克托
-Vladimir 블라디미르 猩红收割者 弗拉基米尔 블라디
-Volibear 볼리베어 雷霆咆哮 沃利贝尔 볼베
-Warwick 워윅 祖安怒兽 沃里克
+Veigar 베이가 邪恶小法师 维迦 小法
+Velkoz 벨코즈 虚空之眼 维克兹 大眼睛 大眼 大眼怪
+Vi 바이 皮城执法官 蔚 拳妈
+Viktor 빅토르 机械先驱 维克托 三只手
+Vladimir 블라디미르 猩红收割者 弗拉基米尔 블라디 吸血鬼
+Volibear 볼리베어 雷霆咆哮 沃利贝尔 볼베 狗熊 熊王
+Warwick 워윅 祖安怒兽 沃里克 狼人
 Xayah 자야 逆羽 霞
-Xerath 제라스 远古巫灵 泽拉斯
-XinZhao 신짜오 德邦总管 赵信 신 짜오
-Yasuo 야스오 疾风剑豪 亚索 야소
-Yorick 요릭 牧魂人 约里克
-Yuumi 유미 魔法猫咪 悠米
+Xerath 제라스 远古巫灵 泽拉斯 三炮
+XinZhao 신짜오 德邦总管 赵信 신 짜오 菊花
+Yasuo 야스오 疾风剑豪 亚索 야소 快乐风男 托儿索
+Yorick 요릭 牧魂人 约里克 掘墓
+Yuumi 유미 魔法猫咪 悠米 猫咪
 Zac 자크 生化魔人 扎克
 Zed 제드 影流之主 劫
-Ziggs 직스 爆破鬼才 吉格斯
-Zilean 질리언 时光守护者 基兰 질련
+Ziggs 직스 爆破鬼才 吉格斯 炸弹人
+Zilean 질리언 时光守护者 基兰 질련 时光老头 时光
 Zoe 조이 暮光星灵 佐伊
 Zyra 자이라 荆棘之兴 婕拉
